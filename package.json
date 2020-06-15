@@ -4,6 +4,7 @@
   "description": "Typescript/Express starter app",
   "main": "app.js",
   "scripts": {
+    "start": "node src/app.js",
     "test": "jest"
   },
   "repository": {
