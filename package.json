@@ -1,0 +1,19 @@
+{
+  "name": "ts-start",
+  "version": "0.0.1",
+  "description": "Typescript/Express starter app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradybarrett/ts-express-workshop.git"
+  },
+  "author": "Grady Barrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gradybarrett/ts-express-workshop/issues"
+  },
+  "homepage": "https://github.com/gradybarrett/ts-express-workshop#readme"
+}
