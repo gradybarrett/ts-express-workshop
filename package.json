@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gradybarrett/ts-express-workshop/issues"
   },
-  "homepage": "https://github.com/gradybarrett/ts-express-workshop#readme"
+  "homepage": "https://github.com/gradybarrett/ts-express-workshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
